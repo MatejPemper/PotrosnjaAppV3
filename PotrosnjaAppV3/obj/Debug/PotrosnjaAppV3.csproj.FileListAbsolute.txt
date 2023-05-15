@@ -1,0 +1,13 @@
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.Form1.resources
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.FormAdd.resources
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.FormCategory.resources
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.Properties.Resources.resources
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\bin\Debug\PotrosnjaAppV3.exe.config
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\bin\Debug\PotrosnjaAppV3.exe
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\bin\Debug\PotrosnjaAppV3.pdb
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.exe
+C:\Users\ucenik\Documents\mppp\PotrosnjaAppV3\PotrosnjaAppV3\obj\Debug\PotrosnjaAppV3.pdb

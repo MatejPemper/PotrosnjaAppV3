@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="note">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="najam" type="xs:int"/>
+				<xs:element name="rezije" type="xs:int"/>
+				<xs:element name="transport" type="xs:int"/>
+				<xs:element name="namirnice" type="xs:int"/>
+				<xs:element name="usluge" type="xs:int"/>
+				<xs:element name="ostalo" type="xs:int"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>
